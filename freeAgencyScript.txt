@@ -1,0 +1,24 @@
+(async function () {
+    // Team's abbreviation, in double quotes
+    var teamAbbrev = "";
+
+    // Player ID, found at the end of the player's page link
+    var playerID = 0;
+
+    // Player's salary, in millions of dollars
+    var salary = 0;
+
+    // The year the contract should expire
+    // If a player is signed to a 3M deal thru 2023, contractExp should be 2023.
+    var contractExp = 0;
+
+    // Do not change anything past this point
+    var contractAmount = salary * 1000;
+    var team = bbgm.g.teamInfoCache.findIndex(t => t.abbrev === teamAbbrev);
+    var player = await bbgm.idb.cache.players.get(playerID);
+    
+    if (player.tid == bbgm.PLAYER.FREE_AGENT) {
+      bbgm.player.sign(player, team, {amount: contractAmount, exp: contractExp}, bbgm.g.get("phase"));
+      await bbgm.idb.cache.players.put(player);
+    }
+})()
