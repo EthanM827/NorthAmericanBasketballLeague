@@ -1,3 +1,10 @@
+/* To use:
+* Open the export in BBGM
+* Edit teamAbbrev, playerID, salary, and contractExp to match the contract you want the player to sign
+* Open worker console
+* Paste this code into worker console and click Run
+*/
+
 (async function () {
     // Team's abbreviation, in double quotes
     var teamAbbrev = "";
