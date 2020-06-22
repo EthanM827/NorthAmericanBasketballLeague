@@ -2,27 +2,83 @@
   "version": 37,
   "meta": {
     "phaseText": "2020 preseason",
-    "name": "League 16"
+    "name": "NABL"
   },
   "trade": [
     {
       "rid": 0,
       "teams": [
         {
-          "tid": 2,
+          "tid": 10,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
         },
         {
-          "tid": 0,
+          "tid": 28,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
         }
       ]
+    }
+  ],
+  "releasedPlayers": [
+    {
+      "pid": 367,
+      "tid": 4,
+      "contract": {
+        "amount": 750,
+        "exp": 2021
+      },
+      "rid": 0
+    },
+    {
+      "pid": 264,
+      "tid": 28,
+      "contract": {
+        "amount": 7800,
+        "exp": 2020
+      },
+      "rid": 1
+    },
+    {
+      "pid": 328,
+      "tid": 28,
+      "contract": {
+        "amount": 4300,
+        "exp": 2020
+      },
+      "rid": 2
+    },
+    {
+      "pid": 379,
+      "tid": 28,
+      "contract": {
+        "amount": 750,
+        "exp": 2020
+      },
+      "rid": 3
+    },
+    {
+      "pid": 101,
+      "tid": 2,
+      "contract": {
+        "amount": 750,
+        "exp": 2020
+      },
+      "rid": 4
+    },
+    {
+      "pid": 98,
+      "tid": 2,
+      "contract": {
+        "amount": 750,
+        "exp": 2021
+      },
+      "rid": 5
     }
   ],
   "events": [
@@ -35,6 +91,197 @@
       "score": 20,
       "season": 2020,
       "eid": 0
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> traded <a href=\"/l/17/player/182\">Mike Gordon</a> and a 2020 1st round pick (SAC) to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/129\">Andre Eakins</a>.",
+      "pids": [
+        182,
+        129
+      ],
+      "tids": [
+        21,
+        28
+      ],
+      "score": 29,
+      "season": 2020,
+      "eid": 1
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> traded <a href=\"/l/17/player/156\">Roy Jones</a> to the <a href=\"/l/17/roster/PHO/2020\">Vultures</a> for <a href=\"/l/17/player/248\">Albert Vazquez</a>, a 2020 1st round pick (PHO), a 2021 2nd round pick (PHO), and a 2023 1st round pick (PHO).",
+      "pids": [
+        156,
+        248
+      ],
+      "tids": [
+        7,
+        18
+      ],
+      "score": 22,
+      "season": 2020,
+      "eid": 2
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> traded <a href=\"/l/17/player/74\">Chris Brown</a>, <a href=\"/l/17/player/189\">Shawn Malone</a>, and a 2022 1st round pick (SAC) to the <a href=\"/l/17/roster/CIN/2020\">Riots</a> for <a href=\"/l/17/player/137\">Matt Allen</a>.",
+      "pids": [
+        74,
+        189,
+        137
+      ],
+      "tids": [
+        21,
+        4
+      ],
+      "score": 27,
+      "season": 2020,
+      "eid": 3
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/NYC/2020\">Bankers</a> traded <a href=\"/l/17/player/66\">Lawrence Mills</a>, <a href=\"/l/17/player/264\">Robert Nixon</a>, and <a href=\"/l/17/player/334\">Ryan Brickley</a> to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/192\">Mike Williams</a>, <a href=\"/l/17/player/351\">Anthony Paulos</a>, <a href=\"/l/17/player/355\">Stefan Pantic</a>, and a 2020 1st round pick (SAC).",
+      "pids": [
+        66,
+        264,
+        334,
+        192,
+        351,
+        355
+      ],
+      "tids": [
+        16,
+        28
+      ],
+      "score": 19,
+      "season": 2020,
+      "eid": 4
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> traded <a href=\"/l/17/player/138\">Bison Purnell</a> to the <a href=\"/l/17/roster/POR/2020\">Roses</a> for <a href=\"/l/17/player/59\">Terrence Primus</a>, <a href=\"/l/17/player/205\">Shamar Harris</a>, a 2020 1st round pick (POR), and a 2020 2nd round pick (POR).",
+      "pids": [
+        138,
+        59,
+        205
+      ],
+      "tids": [
+        2,
+        20
+      ],
+      "score": 27,
+      "season": 2020,
+      "eid": 5
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/140\">Aubrey Friday</a> and <a href=\"/l/17/player/158\">Matt Edney</a> to the <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> for <a href=\"/l/17/player/69\">Jamel Harris</a>, <a href=\"/l/17/player/236\">Grigoriy Karasev</a>, <a href=\"/l/17/player/257\">Mael Hangoue</a>, <a href=\"/l/17/player/288\">Chad Lofton</a>, <a href=\"/l/17/player/318\">D.J. Hatch</a>, a 2021 2nd round pick (SAC), and a 2023 2nd round pick (SAC).",
+      "pids": [
+        140,
+        158,
+        69,
+        236,
+        257,
+        288,
+        318
+      ],
+      "tids": [
+        27,
+        21
+      ],
+      "score": 25,
+      "season": 2020,
+      "eid": 6
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/CIN/2020\">Riots</a> released <a href=\"/l/17/player/367\">Kenan Dzidic</a>.",
+      "pids": [
+        367
+      ],
+      "tids": [
+        4
+      ],
+      "season": 2020,
+      "eid": 7
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/264\">Robert Nixon</a>.",
+      "pids": [
+        264
+      ],
+      "tids": [
+        28
+      ],
+      "season": 2020,
+      "eid": 8
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/328\">Hyjii McHenry</a>.",
+      "pids": [
+        328
+      ],
+      "tids": [
+        28
+      ],
+      "season": 2020,
+      "eid": 9
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/379\">Patrick McGhee</a>.",
+      "pids": [
+        379
+      ],
+      "tids": [
+        28
+      ],
+      "season": 2020,
+      "eid": 10
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> released <a href=\"/l/17/player/101\">Denis Maier</a>.",
+      "pids": [
+        101
+      ],
+      "tids": [
+        2
+      ],
+      "season": 2020,
+      "eid": 11
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> released <a href=\"/l/17/player/98\">Dwight Robins</a>.",
+      "pids": [
+        98
+      ],
+      "tids": [
+        2
+      ],
+      "season": 2020,
+      "eid": 12
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/LV/2020\">Blue Chips</a> traded <a href=\"/l/17/player/253\">Patrick Fernley</a>, <a href=\"/l/17/player/310\">Branden Moss</a>, <a href=\"/l/17/player/369\">Dennis Crow</a>, and <a href=\"/l/17/player/384\">Josh MacMillan</a> to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/182\">Mike Gordon</a>.",
+      "pids": [
+        253,
+        310,
+        369,
+        384,
+        182
+      ],
+      "tids": [
+        10,
+        28
+      ],
+      "score": 20,
+      "season": 2020,
+      "eid": 13
     }
   ],
   "teams": [
@@ -6067,7 +6314,7 @@
     },
     {
       "key": "leagueName",
-      "value": "League 16"
+      "value": "NABL"
     },
     {
       "key": "luxuryPayroll",
@@ -6146,7 +6393,7 @@
     },
     {
       "key": "playersRefuseToNegotiate",
-      "value": true
+      "value": false
     },
     {
       "key": "quarterLength",
@@ -6213,7 +6460,7 @@
     },
     {
       "key": "userTid",
-      "value": 9
+      "value": 2
     },
     {
       "key": "userTids",
@@ -6397,7 +6644,7 @@
       "dpid": 17
     },
     {
-      "tid": 18,
+      "tid": 7,
       "originalTid": 18,
       "round": 1,
       "pick": 0,
@@ -6413,7 +6660,7 @@
       "dpid": 19
     },
     {
-      "tid": 20,
+      "tid": 2,
       "originalTid": 20,
       "round": 1,
       "pick": 0,
@@ -6421,7 +6668,7 @@
       "dpid": 20
     },
     {
-      "tid": 21,
+      "tid": 16,
       "originalTid": 21,
       "round": 1,
       "pick": 0,
@@ -6653,7 +6900,7 @@
       "dpid": 49
     },
     {
-      "tid": 20,
+      "tid": 2,
       "originalTid": 20,
       "round": 2,
       "pick": 0,
@@ -7117,7 +7364,7 @@
       "dpid": 107
     },
     {
-      "tid": 18,
+      "tid": 7,
       "originalTid": 18,
       "round": 2,
       "pick": 0,
@@ -7141,7 +7388,7 @@
       "dpid": 110
     },
     {
-      "tid": 21,
+      "tid": 27,
       "originalTid": 21,
       "round": 2,
       "pick": 0,
@@ -7381,7 +7628,7 @@
       "dpid": 140
     },
     {
-      "tid": 21,
+      "tid": 4,
       "originalTid": 21,
       "round": 1,
       "pick": 0,
@@ -7837,7 +8084,7 @@
       "dpid": 197
     },
     {
-      "tid": 18,
+      "tid": 7,
       "originalTid": 18,
       "round": 1,
       "pick": 0,
@@ -8101,7 +8348,7 @@
       "dpid": 230
     },
     {
-      "tid": 21,
+      "tid": 27,
       "originalTid": 21,
       "round": 2,
       "pick": 0,
@@ -14470,7 +14717,7 @@
       "college": "Ohio State",
       "contract": {
         "amount": 6000,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -14627,6 +14874,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 6000
+        },
+        {
+          "season": 2021,
           "amount": 6000
         }
       ],
@@ -18770,7 +19021,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 5,
+      "rosterOrder": 6,
       "salaries": [
         {
           "season": 2020,
@@ -20165,7 +20416,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 7,
+      "rosterOrder": 4,
       "salaries": [
         {
           "season": 2020,
@@ -22005,7 +22256,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 9,
+      "rosterOrder": 8,
       "salaries": [
         {
           "season": 2020,
@@ -22060,13 +22311,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 2,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        20
+        20,
+        2
       ],
-      "tid": 20,
-      "transactions": [],
+      "tid": 2,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 2,
+          "type": "trade",
+          "fromTid": 20
+        }
+      ],
       "watch": false,
       "weight": 236,
       "yearsFreeAgent": 0,
@@ -23649,13 +23953,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        28
       ],
-      "tid": 16,
-      "transactions": [],
+      "tid": 28,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 16
+        }
+      ],
       "watch": false,
       "weight": 213,
       "yearsFreeAgent": 0,
@@ -24333,13 +24690,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        27
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 27,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 27,
+          "type": "trade",
+          "fromTid": 21
+        }
+      ],
       "watch": false,
       "weight": 215,
       "yearsFreeAgent": 0,
@@ -25474,13 +25884,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 4,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        4
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 4,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 4,
+          "type": "trade",
+          "fromTid": 21
+        }
+      ],
       "watch": false,
       "weight": 184,
       "yearsFreeAgent": 0,
@@ -30655,7 +31118,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 10,
+      "rosterOrder": 9,
       "salaries": [
         {
           "season": 2020,
@@ -30814,36 +31277,36 @@
       },
       "firstName": "Dwight",
       "freeAgentMood": [
+        0.6204310885324961,
+        1.7652685235590437,
+        0.6232762941089662,
+        2.2064117089658017,
+        2.0448109132903225,
+        0.9169305941898895,
+        0,
+        0.1707392578732423,
+        1.0296543459181946,
+        1.3952029384444944,
+        0.7815254408581698,
+        1.8115341461208707,
+        1.2232937366155443,
+        0,
+        0,
+        1.3841052452558218,
         0,
         0,
         0,
+        0.9724878166496979,
+        1.9348583042150955,
+        1.1520588593242014,
+        1.7585464395414234,
+        1.162668804830085,
+        1.113130718326682,
+        0.27232925961055,
+        0.35896504469429613,
+        1.4977772517623023,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        0.6625588487632169
       ],
       "gamesUntilTradable": 0,
       "hgt": 73,
@@ -30883,7 +31346,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 8,
+      "rosterOrder": 13,
       "salaries": [
         {
           "season": 2020,
@@ -30943,7 +31406,7 @@
       "statsTids": [
         2
       ],
-      "tid": 2,
+      "tid": -1,
       "transactions": [],
       "watch": false,
       "weight": 213,
@@ -31111,7 +31574,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 11,
+      "rosterOrder": 10,
       "salaries": [
         {
           "season": 2020,
@@ -31420,7 +31883,7 @@
       "college": "",
       "contract": {
         "amount": 750,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -31498,35 +31961,35 @@
       },
       "firstName": "Denis",
       "freeAgentMood": [
+        1.4151095467907409,
+        1.1772130034413582,
+        0.7880138599646901,
+        2.1916000628167174,
+        1.336302029983429,
+        1.4532337953758812,
+        0.8404190569842438,
+        0,
+        0.989624223435349,
+        0.3875330421889073,
+        1.838651718250315,
+        0,
+        0.10452919134011396,
+        0,
+        1.2885115016625588,
+        1.1897510650180763,
+        0,
+        1.0759678402970647,
+        0,
+        0.9629458258888384,
+        1.874885171557833,
+        0.6023847102790546,
+        0,
+        0.09745941607338682,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        0.5977842627202778,
+        0.8928323248965773,
+        1.5485703616055466,
         0
       ],
       "gamesUntilTradable": 0,
@@ -31567,7 +32030,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 9,
+      "rosterOrder": 12,
       "salaries": [
         {
           "season": 2020,
@@ -31623,7 +32086,7 @@
       "statsTids": [
         2
       ],
-      "tid": 2,
+      "tid": -1,
       "transactions": [],
       "watch": false,
       "weight": 199,
@@ -35659,7 +36122,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 12,
+      "rosterOrder": 11,
       "salaries": [
         {
           "season": 2020,
@@ -38047,13 +38510,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 21,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        28
+        28,
+        21
       ],
-      "tid": 28,
-      "transactions": [],
+      "tid": 21,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 21,
+          "type": "trade",
+          "fromTid": 28
+        }
+      ],
       "watch": false,
       "weight": 228,
       "yearsFreeAgent": 0,
@@ -39913,13 +40429,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 21,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        4
+        4,
+        21
       ],
-      "tid": 4,
-      "transactions": [],
+      "tid": 21,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 21,
+          "type": "trade",
+          "fromTid": 4
+        }
+      ],
       "watch": false,
       "weight": 251,
       "yearsFreeAgent": 0,
@@ -40149,13 +40718,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 20,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        2
+        2,
+        20
       ],
-      "tid": 2,
-      "transactions": [],
+      "tid": 20,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 20,
+          "type": "trade",
+          "fromTid": 2
+        }
+      ],
       "watch": false,
       "weight": 229,
       "yearsFreeAgent": 0,
@@ -40625,13 +41247,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 21,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        21
       ],
-      "tid": 27,
-      "transactions": [],
+      "tid": 21,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 21,
+          "type": "trade",
+          "fromTid": 27
+        }
+      ],
       "watch": false,
       "weight": 248,
       "yearsFreeAgent": 0,
@@ -44352,13 +45027,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 18,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        7
+        7,
+        18
       ],
-      "tid": 7,
-      "transactions": [],
+      "tid": 18,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 18,
+          "type": "trade",
+          "fromTid": 7
+        }
+      ],
       "watch": false,
       "weight": 215,
       "yearsFreeAgent": 0,
@@ -44818,13 +45546,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 21,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        21
       ],
-      "tid": 27,
-      "transactions": [],
+      "tid": 21,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 21,
+          "type": "trade",
+          "fromTid": 27
+        }
+      ],
       "watch": false,
       "weight": 246,
       "yearsFreeAgent": 0,
@@ -45555,7 +46336,7 @@
       "college": "Penn State",
       "contract": {
         "amount": 2700,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -45707,10 +46488,14 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 2,
+      "rosterOrder": 1,
       "salaries": [
         {
           "season": 2020,
+          "amount": 2700
+        },
+        {
+          "season": 2021,
           "amount": 2700
         }
       ],
@@ -50347,13 +51132,118 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 10,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        28,
+        10
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 21
+        },
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 10,
+          "type": "trade",
+          "fromTid": 28
+        }
+      ],
       "watch": false,
       "weight": 235,
       "yearsFreeAgent": 0,
@@ -51981,13 +52871,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 4,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        4
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 4,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 4,
+          "type": "trade",
+          "fromTid": 21
+        }
+      ],
       "watch": false,
       "weight": 205,
       "yearsFreeAgent": 0,
@@ -52160,7 +53103,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 1,
+      "rosterOrder": 0,
       "salaries": [
         {
           "season": 2020,
@@ -52693,13 +53636,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        28
+        28,
+        16
       ],
-      "tid": 28,
-      "transactions": [],
+      "tid": 16,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 16,
+          "type": "trade",
+          "fromTid": 28
+        }
+      ],
       "watch": false,
       "weight": 214,
       "yearsFreeAgent": 0,
@@ -55635,7 +56631,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 5,
+      "rosterOrder": 2,
       "salaries": [
         {
           "season": 2020,
@@ -55690,13 +56686,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 2,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        20
+        20,
+        2
       ],
-      "tid": 20,
-      "transactions": [],
+      "tid": 2,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 2,
+          "type": "trade",
+          "fromTid": 20
+        }
+      ],
       "watch": false,
       "weight": 239,
       "yearsFreeAgent": 0,
@@ -58861,7 +59910,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 4,
+      "rosterOrder": 5,
       "salaries": [
         {
           "season": 2020,
@@ -62846,13 +63895,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        27
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 27,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 27,
+          "type": "trade",
+          "fromTid": 21
+        }
+      ],
       "watch": false,
       "weight": 235,
       "yearsFreeAgent": 0,
@@ -65613,13 +66715,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        18
+        18,
+        7
       ],
-      "tid": 18,
-      "transactions": [],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 7,
+          "type": "trade",
+          "fromTid": 18
+        }
+      ],
       "watch": false,
       "weight": 221,
       "yearsFreeAgent": 0,
@@ -66014,7 +67169,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 6,
+      "rosterOrder": 7,
       "salaries": [
         {
           "season": 2020,
@@ -66763,13 +67918,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        28
       ],
-      "tid": 10,
-      "transactions": [],
+      "tid": 28,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 10
+        }
+      ],
       "watch": false,
       "weight": 195,
       "yearsFreeAgent": 0,
@@ -67689,13 +68897,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        27
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 27,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 27,
+          "type": "trade",
+          "fromTid": 21
+        }
+      ],
       "watch": false,
       "weight": 233,
       "yearsFreeAgent": 0,
@@ -69068,8 +70329,8 @@
       },
       "college": "Tennessee",
       "contract": {
-        "amount": 7800,
-        "exp": 2020
+        "amount": 8100,
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -69147,35 +70408,35 @@
       },
       "firstName": "Robert",
       "freeAgentMood": [
+        0.8625272458226756,
+        0.9326914335613148,
+        2.194632562468275,
+        0.8669013066383352,
+        1.5163090646858937,
+        0.4517730998803229,
+        1.7763608136289897,
+        0.2259724347651898,
+        1.4768361168116513,
         0,
+        0.1915500091539532,
+        0.17415323102837021,
+        1.8184890109004805,
+        1.2475664010558065,
+        0.10137371616354168,
+        1.5340500033224442,
+        1.2665892830244512,
+        0.7753628408913733,
+        0.8063788779917914,
         0,
+        1.1176393313804684,
+        0.30804284155851036,
+        1.6626331043976355,
+        0.5528494303082351,
+        0.9715394781783027,
+        0.8755974910935038,
+        0.2917071642917348,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        0.058940749976678766,
         0
       ],
       "gamesUntilTradable": 0,
@@ -69267,13 +70528,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        28
       ],
-      "tid": 16,
-      "transactions": [],
+      "tid": -1,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 16
+        }
+      ],
       "watch": false,
       "weight": 247,
       "yearsFreeAgent": 0,
@@ -74762,13 +76076,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        27
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 27,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 27,
+          "type": "trade",
+          "fromTid": 21
+        }
+      ],
       "watch": false,
       "weight": 218,
       "yearsFreeAgent": 0,
@@ -79838,13 +81205,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        28
       ],
-      "tid": 10,
-      "transactions": [],
+      "tid": 28,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 10
+        }
+      ],
       "watch": false,
       "weight": 222,
       "yearsFreeAgent": 0,
@@ -81695,13 +83115,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        21
+        21,
+        27
       ],
-      "tid": 21,
-      "transactions": [],
+      "tid": 27,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 27,
+          "type": "trade",
+          "fromTid": 21
+        }
+      ],
       "watch": false,
       "weight": 250,
       "yearsFreeAgent": 0,
@@ -83778,8 +85251,8 @@
       },
       "college": "North Carolina State",
       "contract": {
-        "amount": 4300,
-        "exp": 2020
+        "amount": 4100,
+        "exp": 2022
       },
       "draft": {
         "round": 2,
@@ -83857,36 +85330,36 @@
       },
       "firstName": "Hyjii",
       "freeAgentMood": [
+        0.8440448072473667,
+        1.1452314180801533,
+        0.3985012184009302,
+        0.4885247676498571,
+        1.7833087616492647,
+        0.8805327127761136,
+        1.1339270137498145,
+        1.673642255052102,
+        0.2645820560279015,
+        0.3346621940339205,
+        1.2429745498658953,
+        0,
+        1.536293740475751,
+        1.1500527941633996,
+        0,
+        1.354555868538988,
+        0.5015178880052185,
+        0.7850155440086242,
+        0.7051555097860616,
+        1.1926403480312044,
+        1.3972086781416926,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.4386519859645723,
+        1.6770008121414697,
+        0.39880935185633315,
+        1.5545188947237532,
+        0.7980847849701543,
+        1.7052215809940363,
+        0.6967087045373336
       ],
       "gamesUntilTradable": 0,
       "hgt": 84,
@@ -83984,7 +85457,7 @@
       "statsTids": [
         28
       ],
-      "tid": 28,
+      "tid": -1,
       "transactions": [],
       "watch": false,
       "weight": 237,
@@ -85351,13 +86824,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        28
       ],
-      "tid": 16,
-      "transactions": [],
+      "tid": 28,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 16
+        }
+      ],
       "watch": false,
       "weight": 265,
       "yearsFreeAgent": 0,
@@ -89249,13 +90775,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        28
+        28,
+        16
       ],
-      "tid": 28,
-      "transactions": [],
+      "tid": 16,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 16,
+          "type": "trade",
+          "fromTid": 28
+        }
+      ],
       "watch": false,
       "weight": 209,
       "yearsFreeAgent": 0,
@@ -90161,13 +91740,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        28
+        28,
+        16
       ],
-      "tid": 28,
-      "transactions": [],
+      "tid": 16,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 16,
+          "type": "trade",
+          "fromTid": 28
+        }
+      ],
       "watch": false,
       "weight": 221,
       "yearsFreeAgent": 0,
@@ -92782,36 +94414,36 @@
       },
       "firstName": "Kenan",
       "freeAgentMood": [
+        1.4511569272310396,
+        0.9770735806431725,
+        1.2486816395985858,
+        1.63402207413041,
+        0,
+        1.3765424505241335,
+        1.6183054935395715,
+        1.1508321406075885,
+        0,
+        1.220433388391187,
+        0,
+        0.49945392091549623,
+        1.298782168746168,
+        0.8712890798793289,
+        0,
+        1.6778855530815127,
+        1.3924159591969567,
+        0.7015034771123203,
+        0,
+        0.5447626263620666,
+        0.6095213944608251,
+        1.898972497264214,
+        1.7891239238653358,
+        0.0889560196576159,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.7331272027783267,
+        1.572737372391651,
+        0.11219006964710004,
+        1.7276040017511718
       ],
       "gamesUntilTradable": 0,
       "hgt": 76,
@@ -92911,7 +94543,7 @@
       "statsTids": [
         4
       ],
-      "tid": 4,
+      "tid": -1,
       "transactions": [],
       "watch": false,
       "weight": 222,
@@ -93362,13 +94994,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        28
       ],
-      "tid": 10,
-      "transactions": [],
+      "tid": 28,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 10
+        }
+      ],
       "watch": false,
       "weight": 250,
       "yearsFreeAgent": 0,
@@ -95438,7 +97123,7 @@
       "college": "North Carolina",
       "contract": {
         "amount": 750,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -95517,34 +97202,34 @@
       "firstName": "Patrick",
       "freeAgentMood": [
         0,
+        1.4872048622620673,
+        0.7268606735837976,
+        0.7570253406778396,
         0,
+        0.7398969200376557,
+        0.2085681774723509,
+        1.588066411100989,
+        1.1181832161768566,
+        2.2383553289848352,
+        0.5361154986460698,
+        1.3585361241517393,
+        0.3417467963045142,
+        0.20578443699580573,
+        1.8606459862556262,
+        1.69447210052613,
+        1.8490042257012098,
+        0.2636193151276155,
+        1.569893487014863,
+        0.48053573734450566,
+        0.2493980048004968,
+        0.3997517630044091,
+        1.8165090114171225,
         0,
+        1.781263163053422,
+        1.3319801873213786,
+        0.03357660692783393,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        0.6968637159919137,
         0
       ],
       "gamesUntilTradable": 0,
@@ -95641,7 +97326,7 @@
       "statsTids": [
         28
       ],
-      "tid": 28,
+      "tid": -1,
       "transactions": [],
       "watch": false,
       "weight": 231,
@@ -96774,13 +98459,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 28,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        28
       ],
-      "tid": 10,
-      "transactions": [],
+      "tid": 28,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 28,
+          "type": "trade",
+          "fromTid": 10
+        }
+      ],
       "watch": false,
       "weight": 252,
       "yearsFreeAgent": 0,
