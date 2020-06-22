@@ -1,0 +1,11 @@
+/* To use:
+* Open the export in BBGM
+* Edit year and numPlayers to fit your need
+* Open worker console
+* Paste this code into worker console and click Run
+*/
+
+var year = 2020;
+var numPlayers = 10;
+
+bbgm.draft.genPlayers(year, 1, numPlayers, false);
