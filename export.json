@@ -9,7 +9,7 @@
       "rid": 0,
       "teams": [
         {
-          "tid": 10,
+          "tid": 16,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -79,6 +79,24 @@
         "exp": 2021
       },
       "rid": 5
+    },
+    {
+      "pid": 341,
+      "tid": 27,
+      "contract": {
+        "amount": 3200,
+        "exp": 2022
+      },
+      "rid": 6
+    },
+    {
+      "pid": 387,
+      "tid": 7,
+      "contract": {
+        "amount": 750,
+        "exp": 2021
+      },
+      "rid": 7
     }
   ],
   "events": [
@@ -282,13 +300,94 @@
       "score": 20,
       "season": 2020,
       "eid": 13
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/231\">Ron Johnson</a> and a 2020 2nd round pick (TOR) to the <a href=\"/l/17/roster/LV/2020\">Blue Chips</a> for <a href=\"/l/17/player/350\">Chris Martin</a> and a 2020 1st round pick (LV).",
+      "pids": [
+        231,
+        350
+      ],
+      "tids": [
+        27,
+        10
+      ],
+      "score": 16,
+      "season": 2020,
+      "eid": 14
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> released <a href=\"/l/17/player/341\">Tyrone Heirman</a>.",
+      "pids": [
+        341
+      ],
+      "tids": [
+        27
+      ],
+      "season": 2020,
+      "eid": 15
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> released <a href=\"/l/17/player/387\">Damjan Magdevski</a>.",
+      "pids": [
+        387
+      ],
+      "tids": [
+        7
+      ],
+      "season": 2020,
+      "eid": 16
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> traded <a href=\"/l/17/player/132\">Cory Devenny</a> to the <a href=\"/l/17/roster/WAS/2020\">Monuments</a> for <a href=\"/l/17/player/203\">John Walters</a>, <a href=\"/l/17/player/258\">Vadim Roller</a>, a 2021 1st round pick (WAS), and a 2023 1st round pick (WAS).",
+      "pids": [
+        132,
+        203,
+        258
+      ],
+      "tids": [
+        7,
+        29
+      ],
+      "score": 28,
+      "season": 2020,
+      "eid": 17
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/26\">Jamal Novak</a> to the <a href=\"/l/17/roster/DEN/2020\">High</a> for a 2021 1st round pick (WAS) and a 2021 2nd round pick (DEN).",
+      "pids": [
+        26
+      ],
+      "tids": [
+        27,
+        7
+      ],
+      "score": 20,
+      "season": 2020,
+      "eid": 18
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/NYC/2020\">Bankers</a> traded a 2020 2nd round pick (NYC) and a 2021 2nd round pick (NYC) to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for a 2022 2nd round pick (VAN) and a 2023 2nd round pick (VAN).",
+      "pids": [],
+      "tids": [
+        16,
+        28
+      ],
+      "score": 0,
+      "season": 2020,
+      "eid": 19
     }
   ],
   "teams": [
     {
       "tid": 0,
       "cid": 0,
-      "did": 0,
+      "did": 5,
       "region": "Atlanta",
       "name": "Gold Club",
       "abbrev": "ATL",
@@ -328,7 +427,7 @@
         {
           "tid": 0,
           "cid": 0,
-          "did": 0,
+          "did": 5,
           "region": "Atlanta",
           "name": "Gold Club",
           "abbrev": "ATL",
@@ -483,7 +582,7 @@
     {
       "tid": 1,
       "cid": 0,
-      "did": 0,
+      "did": 5,
       "region": "Baltimore",
       "name": "Crabs",
       "abbrev": "BAL",
@@ -523,7 +622,7 @@
         {
           "tid": 1,
           "cid": 0,
-          "did": 0,
+          "did": 5,
           "region": "Baltimore",
           "name": "Crabs",
           "abbrev": "BAL",
@@ -873,7 +972,7 @@
     {
       "tid": 3,
       "cid": 0,
-      "did": 0,
+      "did": 4,
       "region": "Chicago",
       "name": "Whirlwinds",
       "abbrev": "CHI",
@@ -913,7 +1012,7 @@
         {
           "tid": 3,
           "cid": 0,
-          "did": 0,
+          "did": 4,
           "region": "Chicago",
           "name": "Whirlwinds",
           "abbrev": "CHI",
@@ -1068,7 +1167,7 @@
     {
       "tid": 4,
       "cid": 0,
-      "did": 0,
+      "did": 4,
       "region": "Cincinnati",
       "name": "Riots",
       "abbrev": "CIN",
@@ -1108,7 +1207,7 @@
         {
           "tid": 4,
           "cid": 0,
-          "did": 0,
+          "did": 4,
           "region": "Cincinnati",
           "name": "Riots",
           "abbrev": "CIN",
@@ -1263,7 +1362,7 @@
     {
       "tid": 5,
       "cid": 0,
-      "did": 0,
+      "did": 4,
       "region": "Cleveland",
       "name": "Curses",
       "abbrev": "CLE",
@@ -1303,7 +1402,7 @@
         {
           "tid": 5,
           "cid": 0,
-          "did": 0,
+          "did": 4,
           "region": "Cleveland",
           "name": "Curses",
           "abbrev": "CLE",
@@ -1653,7 +1752,7 @@
     {
       "tid": 7,
       "cid": 1,
-      "did": 3,
+      "did": 6,
       "region": "Denver",
       "name": "High",
       "abbrev": "DEN",
@@ -1693,7 +1792,7 @@
         {
           "tid": 7,
           "cid": 1,
-          "did": 3,
+          "did": 6,
           "region": "Denver",
           "name": "High",
           "abbrev": "DEN",
@@ -1848,7 +1947,7 @@
     {
       "tid": 8,
       "cid": 0,
-      "did": 0,
+      "did": 4,
       "region": "Detroit",
       "name": "Muscle",
       "abbrev": "DET",
@@ -1888,7 +1987,7 @@
         {
           "tid": 8,
           "cid": 0,
-          "did": 0,
+          "did": 4,
           "region": "Detroit",
           "name": "Muscle",
           "abbrev": "DET",
@@ -2238,7 +2337,7 @@
     {
       "tid": 10,
       "cid": 1,
-      "did": 3,
+      "did": 7,
       "region": "Las Vegas",
       "name": "Blue Chips",
       "abbrev": "LV",
@@ -2278,7 +2377,7 @@
         {
           "tid": 10,
           "cid": 1,
-          "did": 3,
+          "did": 7,
           "region": "Las Vegas",
           "name": "Blue Chips",
           "abbrev": "LV",
@@ -2433,7 +2532,7 @@
     {
       "tid": 11,
       "cid": 1,
-      "did": 3,
+      "did": 7,
       "region": "Los Angeles",
       "name": "Earthquakes",
       "abbrev": "LA",
@@ -2473,7 +2572,7 @@
         {
           "tid": 11,
           "cid": 1,
-          "did": 3,
+          "did": 7,
           "region": "Los Angeles",
           "name": "Earthquakes",
           "abbrev": "LA",
@@ -2823,7 +2922,7 @@
     {
       "tid": 13,
       "cid": 0,
-      "did": 0,
+      "did": 5,
       "region": "Miami",
       "name": "Cyclones",
       "abbrev": "MIA",
@@ -2863,7 +2962,7 @@
         {
           "tid": 13,
           "cid": 0,
-          "did": 0,
+          "did": 5,
           "region": "Miami",
           "name": "Cyclones",
           "abbrev": "MIA",
@@ -3018,7 +3117,7 @@
     {
       "tid": 14,
       "cid": 1,
-      "did": 3,
+      "did": 6,
       "region": "Minneapolis",
       "name": "Blizzard",
       "abbrev": "MIN",
@@ -3058,7 +3157,7 @@
         {
           "tid": 14,
           "cid": 1,
-          "did": 3,
+          "did": 6,
           "region": "Minneapolis",
           "name": "Blizzard",
           "abbrev": "MIN",
@@ -3993,7 +4092,7 @@
     {
       "tid": 19,
       "cid": 0,
-      "did": 0,
+      "did": 4,
       "region": "Pittsburgh",
       "name": "Rivers",
       "abbrev": "PIT",
@@ -4033,7 +4132,7 @@
         {
           "tid": 19,
           "cid": 0,
-          "did": 0,
+          "did": 4,
           "region": "Pittsburgh",
           "name": "Rivers",
           "abbrev": "PIT",
@@ -4188,7 +4287,7 @@
     {
       "tid": 20,
       "cid": 1,
-      "did": 3,
+      "did": 6,
       "region": "Portland",
       "name": "Roses",
       "abbrev": "POR",
@@ -4228,7 +4327,7 @@
         {
           "tid": 20,
           "cid": 1,
-          "did": 3,
+          "did": 6,
           "region": "Portland",
           "name": "Roses",
           "abbrev": "POR",
@@ -4383,7 +4482,7 @@
     {
       "tid": 21,
       "cid": 1,
-      "did": 3,
+      "did": 7,
       "region": "Sacramento",
       "name": "Gold Rush",
       "abbrev": "SAC",
@@ -4423,7 +4522,7 @@
         {
           "tid": 21,
           "cid": 1,
-          "did": 3,
+          "did": 7,
           "region": "Sacramento",
           "name": "Gold Rush",
           "abbrev": "SAC",
@@ -4578,7 +4677,7 @@
     {
       "tid": 22,
       "cid": 1,
-      "did": 3,
+      "did": 7,
       "region": "San Diego",
       "name": "Pandas",
       "abbrev": "SD",
@@ -4618,7 +4717,7 @@
         {
           "tid": 22,
           "cid": 1,
-          "did": 3,
+          "did": 7,
           "region": "San Diego",
           "name": "Pandas",
           "abbrev": "SD",
@@ -4773,7 +4872,7 @@
     {
       "tid": 23,
       "cid": 1,
-      "did": 3,
+      "did": 7,
       "region": "San Francisco",
       "name": "Venture Capitalists",
       "abbrev": "SF",
@@ -4813,7 +4912,7 @@
         {
           "tid": 23,
           "cid": 1,
-          "did": 3,
+          "did": 7,
           "region": "San Francisco",
           "name": "Venture Capitalists",
           "abbrev": "SF",
@@ -4968,7 +5067,7 @@
     {
       "tid": 24,
       "cid": 1,
-      "did": 3,
+      "did": 6,
       "region": "Seattle",
       "name": "Symphony",
       "abbrev": "SEA",
@@ -5008,7 +5107,7 @@
         {
           "tid": 24,
           "cid": 1,
-          "did": 3,
+          "did": 6,
           "region": "Seattle",
           "name": "Symphony",
           "abbrev": "SEA",
@@ -5358,7 +5457,7 @@
     {
       "tid": 26,
       "cid": 0,
-      "did": 0,
+      "did": 5,
       "region": "Tampa",
       "name": "Turtles",
       "abbrev": "TPA",
@@ -5398,7 +5497,7 @@
         {
           "tid": 26,
           "cid": 0,
-          "did": 0,
+          "did": 5,
           "region": "Tampa",
           "name": "Turtles",
           "abbrev": "TPA",
@@ -5748,7 +5847,7 @@
     {
       "tid": 28,
       "cid": 1,
-      "did": 3,
+      "did": 6,
       "region": "Vancouver",
       "name": "Whalers",
       "abbrev": "VAN",
@@ -5788,7 +5887,7 @@
         {
           "tid": 28,
           "cid": 1,
-          "did": 3,
+          "did": 6,
           "region": "Vancouver",
           "name": "Whalers",
           "abbrev": "VAN",
@@ -5943,7 +6042,7 @@
     {
       "tid": 29,
       "cid": 0,
-      "did": 0,
+      "did": 5,
       "region": "Washington",
       "name": "Monuments",
       "abbrev": "WAS",
@@ -5983,7 +6082,7 @@
         {
           "tid": 29,
           "cid": 0,
-          "did": 0,
+          "did": 5,
           "region": "Washington",
           "name": "Monuments",
           "abbrev": "WAS",
@@ -6247,12 +6346,32 @@
             {
               "did": 0,
               "cid": 0,
-              "name": "East"
+              "name": "Atlantic"
             },
             {
               "did": 3,
               "cid": 1,
-              "name": "West"
+              "name": "Southwest"
+            },
+            {
+              "cid": 0,
+              "did": 4,
+              "name": "Central"
+            },
+            {
+              "cid": 0,
+              "did": 5,
+              "name": "Southeast"
+            },
+            {
+              "cid": 1,
+              "did": 6,
+              "name": "Northwest"
+            },
+            {
+              "cid": 1,
+              "did": 7,
+              "name": "Pacific"
             }
           ]
         }
@@ -6460,7 +6579,7 @@
     },
     {
       "key": "userTid",
-      "value": 2
+      "value": 16
     },
     {
       "key": "userTids",
@@ -6580,7 +6699,7 @@
       "dpid": 9
     },
     {
-      "tid": 10,
+      "tid": 27,
       "originalTid": 10,
       "round": 1,
       "pick": 0,
@@ -6868,7 +6987,7 @@
       "dpid": 45
     },
     {
-      "tid": 16,
+      "tid": 28,
       "originalTid": 16,
       "round": 2,
       "pick": 0,
@@ -6956,7 +7075,7 @@
       "dpid": 56
     },
     {
-      "tid": 27,
+      "tid": 10,
       "originalTid": 27,
       "round": 2,
       "pick": 0,
@@ -7212,7 +7331,7 @@
       "dpid": 88
     },
     {
-      "tid": 29,
+      "tid": 27,
       "originalTid": 29,
       "round": 1,
       "pick": 0,
@@ -7276,7 +7395,7 @@
       "dpid": 96
     },
     {
-      "tid": 7,
+      "tid": 27,
       "originalTid": 7,
       "round": 2,
       "pick": 0,
@@ -7348,7 +7467,7 @@
       "dpid": 105
     },
     {
-      "tid": 16,
+      "tid": 28,
       "originalTid": 16,
       "round": 2,
       "pick": 0,
@@ -7924,7 +8043,7 @@
       "dpid": 177
     },
     {
-      "tid": 28,
+      "tid": 16,
       "originalTid": 28,
       "round": 2,
       "pick": 0,
@@ -8172,7 +8291,7 @@
       "dpid": 208
     },
     {
-      "tid": 29,
+      "tid": 7,
       "originalTid": 29,
       "round": 1,
       "pick": 0,
@@ -8404,7 +8523,7 @@
       "dpid": 237
     },
     {
-      "tid": 28,
+      "tid": 16,
       "originalTid": 28,
       "round": 2,
       "pick": 0,
@@ -8665,7 +8784,7 @@
       "college": "La Salle",
       "contract": {
         "amount": 6750,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -8820,6 +8939,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 6750
+        },
+        {
+          "season": 2021,
           "amount": 6750
         }
       ],
@@ -13786,7 +13909,7 @@
       "college": "Georgetown",
       "contract": {
         "amount": 3000,
-        "exp": 2022
+        "exp": 2023
       },
       "draft": {
         "round": 1,
@@ -13954,6 +14077,10 @@
         },
         {
           "season": 2022,
+          "amount": 3000
+        },
+        {
+          "season": 2023,
           "amount": 3000
         }
       ],
@@ -14691,13 +14818,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        7
       ],
-      "tid": 27,
-      "transactions": [],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 7,
+          "type": "trade",
+          "fromTid": 27
+        }
+      ],
       "watch": false,
       "weight": 239,
       "yearsFreeAgent": 0,
@@ -14870,7 +15050,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 3,
+      "rosterOrder": 4,
       "salaries": [
         {
           "season": 2020,
@@ -18414,7 +18594,7 @@
       "college": "Memphis",
       "contract": {
         "amount": 4150,
-        "exp": 2022
+        "exp": 2023
       },
       "draft": {
         "round": 1,
@@ -18573,6 +18753,10 @@
         },
         {
           "season": 2022,
+          "amount": 4150
+        },
+        {
+          "season": 2023,
           "amount": 4150
         }
       ],
@@ -20416,7 +20600,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 4,
+      "rosterOrder": 3,
       "salaries": [
         {
           "season": 2020,
@@ -22390,7 +22574,7 @@
       "college": "Toledo",
       "contract": {
         "amount": 750,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -22541,6 +22725,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 750
+        },
+        {
+          "season": 2021,
           "amount": 750
         }
       ],
@@ -39278,13 +39466,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        7
+        7,
+        29
       ],
-      "tid": 7,
-      "transactions": [],
+      "tid": 29,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 29,
+          "type": "trade",
+          "fromTid": 7
+        }
+      ],
       "watch": false,
       "weight": 246,
       "yearsFreeAgent": 0,
@@ -48409,7 +48650,7 @@
       "college": "Indiana",
       "contract": {
         "amount": 1500,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -48560,6 +48801,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 1500
+        },
+        {
+          "season": 2021,
           "amount": 1500
         }
       ],
@@ -56230,13 +56475,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        29
+        29,
+        7
       ],
-      "tid": 29,
-      "transactions": [],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 7,
+          "type": "trade",
+          "fromTid": 29
+        }
+      ],
       "watch": false,
       "weight": 255,
       "yearsFreeAgent": 0,
@@ -62545,7 +62843,7 @@
       "college": "Detroit Mercy",
       "contract": {
         "amount": 1950,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -62701,6 +62999,10 @@
         {
           "season": 2020,
           "amount": 1950
+        },
+        {
+          "season": 2021,
+          "amount": 1950
         }
       ],
       "stats": [
@@ -62747,13 +63049,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 10,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        10
       ],
-      "tid": 27,
-      "transactions": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 10,
+          "type": "trade",
+          "fromTid": 27
+        }
+      ],
       "watch": false,
       "weight": 226,
       "yearsFreeAgent": 0,
@@ -69174,13 +69529,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        29
+        29,
+        7
       ],
-      "tid": 29,
-      "transactions": [],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 7,
+          "type": "trade",
+          "fromTid": 29
+        }
+      ],
       "watch": false,
       "weight": 221,
       "yearsFreeAgent": 0,
@@ -88280,7 +88688,7 @@
       },
       "college": "Notre Dame",
       "contract": {
-        "amount": 3200,
+        "amount": 2750,
         "exp": 2022
       },
       "draft": {
@@ -88359,36 +88767,36 @@
       },
       "firstName": "Tyrone",
       "freeAgentMood": [
+        0.4593188135748578,
+        0,
+        1.0929024725869285,
+        0.6518415639038301,
+        0.7416910709792934,
+        0.3917581188090633,
+        0,
+        1.0660393102846701,
+        1.5545764651365535,
+        0.4597720636939664,
+        0,
+        1.9969817624709219,
         0,
         0,
+        0.21406592784852774,
+        0.2152961128345693,
+        0.7265900303935402,
+        0.11740549675978806,
+        1.3107868887134373,
+        0.2921180257868371,
+        0.6765440755002561,
+        0.29073810291388213,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        0.2693541164797445,
+        0.7075229885092622,
+        0.37695833385810573,
+        0.2906071397987018,
+        1.4684002303304986,
+        0.2275933750317985,
+        0.14131211013513073
       ],
       "gamesUntilTradable": 0,
       "hgt": 75,
@@ -88492,7 +88900,7 @@
       "statsTids": [
         27
       ],
-      "tid": 27,
+      "tid": -1,
       "transactions": [],
       "watch": false,
       "weight": 194,
@@ -90547,13 +90955,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        27
       ],
-      "tid": 10,
-      "transactions": [],
+      "tid": 27,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 27,
+          "type": "trade",
+          "fromTid": 10
+        }
+      ],
       "watch": false,
       "weight": 210,
       "yearsFreeAgent": 0,
@@ -99068,36 +99529,36 @@
       },
       "firstName": "Damjan",
       "freeAgentMood": [
+        1.1670169349341322,
         0,
+        1.7320543093121847,
+        0.7194081126272779,
+        0.762266321871848,
+        1.6510704986978677,
+        0.16621111403468747,
+        0.554549547964938,
         0,
+        1.7888561154026,
         0,
+        0.8134983788430504,
+        2.1880820081762766,
+        1.070755005137588,
+        0.5752707270663848,
+        1.8358423985524963,
+        1.21293461386667,
+        1.959630450280685,
+        0.15469214585762417,
         0,
+        0.32049642951887425,
+        1.9809543711404434,
+        0.7583470735856233,
+        1.3792856062388164,
         0,
+        1.489000690899911,
+        0.5016878688026662,
+        0.8884637263788263,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
+        1.7531588881018625
       ],
       "gamesUntilTradable": 0,
       "hgt": 81,
@@ -99197,7 +99658,7 @@
       "statsTids": [
         7
       ],
-      "tid": 7,
+      "tid": -1,
       "transactions": [],
       "watch": false,
       "weight": 203,
