@@ -9,14 +9,14 @@
       "rid": 0,
       "teams": [
         {
-          "tid": 16,
+          "tid": 10,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
           "dpidsExcluded": []
         },
         {
-          "tid": 28,
+          "tid": 12,
           "pids": [],
           "pidsExcluded": [],
           "dpids": [],
@@ -97,290 +97,6 @@
         "exp": 2021
       },
       "rid": 7
-    }
-  ],
-  "events": [
-    {
-      "type": "newLeague",
-      "text": "Welcome to your new league!",
-      "tids": [
-        0
-      ],
-      "score": 20,
-      "season": 2020,
-      "eid": 0
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> traded <a href=\"/l/17/player/182\">Mike Gordon</a> and a 2020 1st round pick (SAC) to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/129\">Andre Eakins</a>.",
-      "pids": [
-        182,
-        129
-      ],
-      "tids": [
-        21,
-        28
-      ],
-      "score": 29,
-      "season": 2020,
-      "eid": 1
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> traded <a href=\"/l/17/player/156\">Roy Jones</a> to the <a href=\"/l/17/roster/PHO/2020\">Vultures</a> for <a href=\"/l/17/player/248\">Albert Vazquez</a>, a 2020 1st round pick (PHO), a 2021 2nd round pick (PHO), and a 2023 1st round pick (PHO).",
-      "pids": [
-        156,
-        248
-      ],
-      "tids": [
-        7,
-        18
-      ],
-      "score": 22,
-      "season": 2020,
-      "eid": 2
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> traded <a href=\"/l/17/player/74\">Chris Brown</a>, <a href=\"/l/17/player/189\">Shawn Malone</a>, and a 2022 1st round pick (SAC) to the <a href=\"/l/17/roster/CIN/2020\">Riots</a> for <a href=\"/l/17/player/137\">Matt Allen</a>.",
-      "pids": [
-        74,
-        189,
-        137
-      ],
-      "tids": [
-        21,
-        4
-      ],
-      "score": 27,
-      "season": 2020,
-      "eid": 3
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/NYC/2020\">Bankers</a> traded <a href=\"/l/17/player/66\">Lawrence Mills</a>, <a href=\"/l/17/player/264\">Robert Nixon</a>, and <a href=\"/l/17/player/334\">Ryan Brickley</a> to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/192\">Mike Williams</a>, <a href=\"/l/17/player/351\">Anthony Paulos</a>, <a href=\"/l/17/player/355\">Stefan Pantic</a>, and a 2020 1st round pick (SAC).",
-      "pids": [
-        66,
-        264,
-        334,
-        192,
-        351,
-        355
-      ],
-      "tids": [
-        16,
-        28
-      ],
-      "score": 19,
-      "season": 2020,
-      "eid": 4
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> traded <a href=\"/l/17/player/138\">Bison Purnell</a> to the <a href=\"/l/17/roster/POR/2020\">Roses</a> for <a href=\"/l/17/player/59\">Terrence Primus</a>, <a href=\"/l/17/player/205\">Shamar Harris</a>, a 2020 1st round pick (POR), and a 2020 2nd round pick (POR).",
-      "pids": [
-        138,
-        59,
-        205
-      ],
-      "tids": [
-        2,
-        20
-      ],
-      "score": 27,
-      "season": 2020,
-      "eid": 5
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/140\">Aubrey Friday</a> and <a href=\"/l/17/player/158\">Matt Edney</a> to the <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> for <a href=\"/l/17/player/69\">Jamel Harris</a>, <a href=\"/l/17/player/236\">Grigoriy Karasev</a>, <a href=\"/l/17/player/257\">Mael Hangoue</a>, <a href=\"/l/17/player/288\">Chad Lofton</a>, <a href=\"/l/17/player/318\">D.J. Hatch</a>, a 2021 2nd round pick (SAC), and a 2023 2nd round pick (SAC).",
-      "pids": [
-        140,
-        158,
-        69,
-        236,
-        257,
-        288,
-        318
-      ],
-      "tids": [
-        27,
-        21
-      ],
-      "score": 25,
-      "season": 2020,
-      "eid": 6
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/CIN/2020\">Riots</a> released <a href=\"/l/17/player/367\">Kenan Dzidic</a>.",
-      "pids": [
-        367
-      ],
-      "tids": [
-        4
-      ],
-      "season": 2020,
-      "eid": 7
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/264\">Robert Nixon</a>.",
-      "pids": [
-        264
-      ],
-      "tids": [
-        28
-      ],
-      "season": 2020,
-      "eid": 8
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/328\">Hyjii McHenry</a>.",
-      "pids": [
-        328
-      ],
-      "tids": [
-        28
-      ],
-      "season": 2020,
-      "eid": 9
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/379\">Patrick McGhee</a>.",
-      "pids": [
-        379
-      ],
-      "tids": [
-        28
-      ],
-      "season": 2020,
-      "eid": 10
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> released <a href=\"/l/17/player/101\">Denis Maier</a>.",
-      "pids": [
-        101
-      ],
-      "tids": [
-        2
-      ],
-      "season": 2020,
-      "eid": 11
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> released <a href=\"/l/17/player/98\">Dwight Robins</a>.",
-      "pids": [
-        98
-      ],
-      "tids": [
-        2
-      ],
-      "season": 2020,
-      "eid": 12
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/LV/2020\">Blue Chips</a> traded <a href=\"/l/17/player/253\">Patrick Fernley</a>, <a href=\"/l/17/player/310\">Branden Moss</a>, <a href=\"/l/17/player/369\">Dennis Crow</a>, and <a href=\"/l/17/player/384\">Josh MacMillan</a> to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/182\">Mike Gordon</a>.",
-      "pids": [
-        253,
-        310,
-        369,
-        384,
-        182
-      ],
-      "tids": [
-        10,
-        28
-      ],
-      "score": 20,
-      "season": 2020,
-      "eid": 13
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/231\">Ron Johnson</a> and a 2020 2nd round pick (TOR) to the <a href=\"/l/17/roster/LV/2020\">Blue Chips</a> for <a href=\"/l/17/player/350\">Chris Martin</a> and a 2020 1st round pick (LV).",
-      "pids": [
-        231,
-        350
-      ],
-      "tids": [
-        27,
-        10
-      ],
-      "score": 16,
-      "season": 2020,
-      "eid": 14
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> released <a href=\"/l/17/player/341\">Tyrone Heirman</a>.",
-      "pids": [
-        341
-      ],
-      "tids": [
-        27
-      ],
-      "season": 2020,
-      "eid": 15
-    },
-    {
-      "type": "release",
-      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> released <a href=\"/l/17/player/387\">Damjan Magdevski</a>.",
-      "pids": [
-        387
-      ],
-      "tids": [
-        7
-      ],
-      "season": 2020,
-      "eid": 16
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> traded <a href=\"/l/17/player/132\">Cory Devenny</a> to the <a href=\"/l/17/roster/WAS/2020\">Monuments</a> for <a href=\"/l/17/player/203\">John Walters</a>, <a href=\"/l/17/player/258\">Vadim Roller</a>, a 2021 1st round pick (WAS), and a 2023 1st round pick (WAS).",
-      "pids": [
-        132,
-        203,
-        258
-      ],
-      "tids": [
-        7,
-        29
-      ],
-      "score": 28,
-      "season": 2020,
-      "eid": 17
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/26\">Jamal Novak</a> to the <a href=\"/l/17/roster/DEN/2020\">High</a> for a 2021 1st round pick (WAS) and a 2021 2nd round pick (DEN).",
-      "pids": [
-        26
-      ],
-      "tids": [
-        27,
-        7
-      ],
-      "score": 20,
-      "season": 2020,
-      "eid": 18
-    },
-    {
-      "type": "trade",
-      "text": "The <a href=\"/l/17/roster/NYC/2020\">Bankers</a> traded a 2020 2nd round pick (NYC) and a 2021 2nd round pick (NYC) to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for a 2022 2nd round pick (VAN) and a 2023 2nd round pick (VAN).",
-      "pids": [],
-      "tids": [
-        16,
-        28
-      ],
-      "score": 0,
-      "season": 2020,
-      "eid": 19
     }
   ],
   "teams": [
@@ -6235,6 +5951,354 @@
       ]
     }
   ],
+  "events": [
+    {
+      "type": "newLeague",
+      "text": "Welcome to your new league!",
+      "tids": [
+        0
+      ],
+      "score": 20,
+      "season": 2020,
+      "eid": 0
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> traded <a href=\"/l/17/player/182\">Mike Gordon</a> and a 2020 1st round pick (SAC) to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/129\">Andre Eakins</a>.",
+      "pids": [
+        182,
+        129
+      ],
+      "tids": [
+        21,
+        28
+      ],
+      "score": 29,
+      "season": 2020,
+      "eid": 1
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> traded <a href=\"/l/17/player/156\">Roy Jones</a> to the <a href=\"/l/17/roster/PHO/2020\">Vultures</a> for <a href=\"/l/17/player/248\">Albert Vazquez</a>, a 2020 1st round pick (PHO), a 2021 2nd round pick (PHO), and a 2023 1st round pick (PHO).",
+      "pids": [
+        156,
+        248
+      ],
+      "tids": [
+        7,
+        18
+      ],
+      "score": 22,
+      "season": 2020,
+      "eid": 2
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> traded <a href=\"/l/17/player/74\">Chris Brown</a>, <a href=\"/l/17/player/189\">Shawn Malone</a>, and a 2022 1st round pick (SAC) to the <a href=\"/l/17/roster/CIN/2020\">Riots</a> for <a href=\"/l/17/player/137\">Matt Allen</a>.",
+      "pids": [
+        74,
+        189,
+        137
+      ],
+      "tids": [
+        21,
+        4
+      ],
+      "score": 27,
+      "season": 2020,
+      "eid": 3
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/NYC/2020\">Bankers</a> traded <a href=\"/l/17/player/66\">Lawrence Mills</a>, <a href=\"/l/17/player/264\">Robert Nixon</a>, and <a href=\"/l/17/player/334\">Ryan Brickley</a> to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/192\">Mike Williams</a>, <a href=\"/l/17/player/351\">Anthony Paulos</a>, <a href=\"/l/17/player/355\">Stefan Pantic</a>, and a 2020 1st round pick (SAC).",
+      "pids": [
+        66,
+        264,
+        334,
+        192,
+        351,
+        355
+      ],
+      "tids": [
+        16,
+        28
+      ],
+      "score": 19,
+      "season": 2020,
+      "eid": 4
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> traded <a href=\"/l/17/player/138\">Bison Purnell</a> to the <a href=\"/l/17/roster/POR/2020\">Roses</a> for <a href=\"/l/17/player/59\">Terrence Primus</a>, <a href=\"/l/17/player/205\">Shamar Harris</a>, a 2020 1st round pick (POR), and a 2020 2nd round pick (POR).",
+      "pids": [
+        138,
+        59,
+        205
+      ],
+      "tids": [
+        2,
+        20
+      ],
+      "score": 27,
+      "season": 2020,
+      "eid": 5
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/140\">Aubrey Friday</a> and <a href=\"/l/17/player/158\">Matt Edney</a> to the <a href=\"/l/17/roster/SAC/2020\">Gold Rush</a> for <a href=\"/l/17/player/69\">Jamel Harris</a>, <a href=\"/l/17/player/236\">Grigoriy Karasev</a>, <a href=\"/l/17/player/257\">Mael Hangoue</a>, <a href=\"/l/17/player/288\">Chad Lofton</a>, <a href=\"/l/17/player/318\">D.J. Hatch</a>, a 2021 2nd round pick (SAC), and a 2023 2nd round pick (SAC).",
+      "pids": [
+        140,
+        158,
+        69,
+        236,
+        257,
+        288,
+        318
+      ],
+      "tids": [
+        27,
+        21
+      ],
+      "score": 25,
+      "season": 2020,
+      "eid": 6
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/CIN/2020\">Riots</a> released <a href=\"/l/17/player/367\">Kenan Dzidic</a>.",
+      "pids": [
+        367
+      ],
+      "tids": [
+        4
+      ],
+      "season": 2020,
+      "eid": 7
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/264\">Robert Nixon</a>.",
+      "pids": [
+        264
+      ],
+      "tids": [
+        28
+      ],
+      "season": 2020,
+      "eid": 8
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/328\">Hyjii McHenry</a>.",
+      "pids": [
+        328
+      ],
+      "tids": [
+        28
+      ],
+      "season": 2020,
+      "eid": 9
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/VAN/2020\">Whalers</a> released <a href=\"/l/17/player/379\">Patrick McGhee</a>.",
+      "pids": [
+        379
+      ],
+      "tids": [
+        28
+      ],
+      "season": 2020,
+      "eid": 10
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> released <a href=\"/l/17/player/101\">Denis Maier</a>.",
+      "pids": [
+        101
+      ],
+      "tids": [
+        2
+      ],
+      "season": 2020,
+      "eid": 11
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/BOS/2020\">Massacre</a> released <a href=\"/l/17/player/98\">Dwight Robins</a>.",
+      "pids": [
+        98
+      ],
+      "tids": [
+        2
+      ],
+      "season": 2020,
+      "eid": 12
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/LV/2020\">Blue Chips</a> traded <a href=\"/l/17/player/253\">Patrick Fernley</a>, <a href=\"/l/17/player/310\">Branden Moss</a>, <a href=\"/l/17/player/369\">Dennis Crow</a>, and <a href=\"/l/17/player/384\">Josh MacMillan</a> to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for <a href=\"/l/17/player/182\">Mike Gordon</a>.",
+      "pids": [
+        253,
+        310,
+        369,
+        384,
+        182
+      ],
+      "tids": [
+        10,
+        28
+      ],
+      "score": 20,
+      "season": 2020,
+      "eid": 13
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/231\">Ron Johnson</a> and a 2020 2nd round pick (TOR) to the <a href=\"/l/17/roster/LV/2020\">Blue Chips</a> for <a href=\"/l/17/player/350\">Chris Martin</a> and a 2020 1st round pick (LV).",
+      "pids": [
+        231,
+        350
+      ],
+      "tids": [
+        27,
+        10
+      ],
+      "score": 16,
+      "season": 2020,
+      "eid": 14
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> released <a href=\"/l/17/player/341\">Tyrone Heirman</a>.",
+      "pids": [
+        341
+      ],
+      "tids": [
+        27
+      ],
+      "season": 2020,
+      "eid": 15
+    },
+    {
+      "type": "release",
+      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> released <a href=\"/l/17/player/387\">Damjan Magdevski</a>.",
+      "pids": [
+        387
+      ],
+      "tids": [
+        7
+      ],
+      "season": 2020,
+      "eid": 16
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/DEN/2020\">High</a> traded <a href=\"/l/17/player/132\">Cory Devenny</a> to the <a href=\"/l/17/roster/WAS/2020\">Monuments</a> for <a href=\"/l/17/player/203\">John Walters</a>, <a href=\"/l/17/player/258\">Vadim Roller</a>, a 2021 1st round pick (WAS), and a 2023 1st round pick (WAS).",
+      "pids": [
+        132,
+        203,
+        258
+      ],
+      "tids": [
+        7,
+        29
+      ],
+      "score": 28,
+      "season": 2020,
+      "eid": 17
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/17/player/26\">Jamal Novak</a> to the <a href=\"/l/17/roster/DEN/2020\">High</a> for a 2021 1st round pick (WAS) and a 2021 2nd round pick (DEN).",
+      "pids": [
+        26
+      ],
+      "tids": [
+        27,
+        7
+      ],
+      "score": 20,
+      "season": 2020,
+      "eid": 18
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/17/roster/NYC/2020\">Bankers</a> traded a 2020 2nd round pick (NYC) and a 2021 2nd round pick (NYC) to the <a href=\"/l/17/roster/VAN/2020\">Whalers</a> for a 2022 2nd round pick (VAN) and a 2023 2nd round pick (VAN).",
+      "pids": [],
+      "tids": [
+        16,
+        28
+      ],
+      "score": 0,
+      "season": 2020,
+      "eid": 19
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/26/roster/NYC/2020\">Bankers</a> traded <a href=\"/l/26/player/3\">Chris Sadler</a> and <a href=\"/l/26/player/300\">Bennett Prewitt</a> to the <a href=\"/l/26/roster/MON/2020\">Mounties</a> for <a href=\"/l/26/player/201\">Ryan Harris</a>, a 2020 1st round pick (MON), and a 2022 1st round pick (MON).",
+      "pids": [
+        3,
+        300,
+        201
+      ],
+      "tids": [
+        16,
+        15
+      ],
+      "score": 29,
+      "season": 2020,
+      "eid": 20
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/26/roster/TOR/2020\">Beavers</a> traded <a href=\"/l/26/player/270\">Michael Suggs</a> to the <a href=\"/l/26/roster/MXC/2020\">Aztecs</a> for <a href=\"/l/26/player/267\">Ishua Bryant</a>.",
+      "pids": [
+        270,
+        267
+      ],
+      "tids": [
+        27,
+        12
+      ],
+      "score": 14,
+      "season": 2020,
+      "eid": 21
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/26/roster/WAS/2020\">Monuments</a> traded <a href=\"/l/26/player/55\">Jonathan Baldwin</a> and <a href=\"/l/26/player/214\">Odie Noble</a> to the <a href=\"/l/26/roster/DEN/2020\">High</a> for <a href=\"/l/26/player/191\">Leigh Moorer</a>.",
+      "pids": [
+        55,
+        214,
+        191
+      ],
+      "tids": [
+        29,
+        7
+      ],
+      "score": 19,
+      "season": 2020,
+      "eid": 22
+    },
+    {
+      "type": "trade",
+      "text": "The <a href=\"/l/26/roster/LV/2020\">Blue Chips</a> traded <a href=\"/l/26/player/39\">Keith King</a>, <a href=\"/l/26/player/202\">Branko Sebic</a>, a 2020 2nd round pick (TOR), and a 2023 1st round pick (LV) to the <a href=\"/l/26/roster/MXC/2020\">Aztecs</a> for <a href=\"/l/26/player/159\">Mike Davis</a> and <a href=\"/l/26/player/326\">Rodney Gibbs</a>.",
+      "pids": [
+        39,
+        202,
+        159,
+        326
+      ],
+      "tids": [
+        10,
+        12
+      ],
+      "score": 22,
+      "season": 2020,
+      "eid": 23
+    }
+  ],
   "gameAttributes": [
     {
       "key": "aiTradesFactor",
@@ -6579,7 +6643,7 @@
     },
     {
       "key": "userTid",
-      "value": 16
+      "value": 2
     },
     {
       "key": "userTids",
@@ -6739,7 +6803,7 @@
       "dpid": 14
     },
     {
-      "tid": 15,
+      "tid": 16,
       "originalTid": 15,
       "round": 1,
       "pick": 0,
@@ -7075,7 +7139,7 @@
       "dpid": 56
     },
     {
-      "tid": 10,
+      "tid": 12,
       "originalTid": 27,
       "round": 2,
       "pick": 0,
@@ -7699,7 +7763,7 @@
       "dpid": 134
     },
     {
-      "tid": 15,
+      "tid": 16,
       "originalTid": 15,
       "round": 1,
       "pick": 0,
@@ -8139,7 +8203,7 @@
       "dpid": 189
     },
     {
-      "tid": 10,
+      "tid": 12,
       "originalTid": 10,
       "round": 1,
       "pick": 0,
@@ -9253,7 +9317,7 @@
       "college": "Kansas",
       "contract": {
         "amount": 7500,
-        "exp": 2022
+        "exp": 2023
       },
       "draft": {
         "round": 1,
@@ -9413,6 +9477,10 @@
         {
           "season": 2022,
           "amount": 7500
+        },
+        {
+          "season": 2023,
+          "amount": 7500
         }
       ],
       "stats": [
@@ -9459,13 +9527,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        15
       ],
-      "tid": 16,
-      "transactions": [],
+      "tid": 15,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 15,
+          "type": "trade",
+          "fromTid": 16
+        }
+      ],
       "watch": false,
       "weight": 236,
       "yearsFreeAgent": 0,
@@ -9952,7 +10073,7 @@
       "college": "North Carolina",
       "contract": {
         "amount": 4150,
-        "exp": 2021
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -10107,6 +10228,10 @@
         },
         {
           "season": 2021,
+          "amount": 4150
+        },
+        {
+          "season": 2022,
           "amount": 4150
         }
       ],
@@ -12983,7 +13108,7 @@
       "college": "Duke",
       "contract": {
         "amount": 3400,
-        "exp": 2021
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -13141,6 +13266,10 @@
         },
         {
           "season": 2021,
+          "amount": 3400
+        },
+        {
+          "season": 2022,
           "amount": 3400
         }
       ],
@@ -14611,7 +14740,7 @@
       "college": "Memphis",
       "contract": {
         "amount": 2850,
-        "exp": 2021
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -14771,6 +14900,10 @@
         },
         {
           "season": 2021,
+          "amount": 2850
+        },
+        {
+          "season": 2022,
           "amount": 2850
         }
       ],
@@ -15050,7 +15183,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 4,
+      "rosterOrder": 5,
       "salaries": [
         {
           "season": 2020,
@@ -17869,13 +18002,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 12,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        12
       ],
-      "tid": 10,
-      "transactions": [],
+      "tid": 12,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 12,
+          "type": "trade",
+          "fromTid": 10
+        }
+      ],
       "watch": false,
       "weight": 214,
       "yearsFreeAgent": 0,
@@ -20600,7 +20786,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 3,
+      "rosterOrder": 4,
       "salaries": [
         {
           "season": 2020,
@@ -21587,13 +21773,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        29
+        29,
+        7
       ],
-      "tid": 29,
-      "transactions": [],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 7,
+          "type": "trade",
+          "fromTid": 29
+        }
+      ],
       "watch": false,
       "weight": 254,
       "yearsFreeAgent": 0,
@@ -25188,7 +25427,7 @@
       "college": "Penn State",
       "contract": {
         "amount": 750,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -25339,6 +25578,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 750
+        },
+        {
+          "season": 2021,
           "amount": 750
         }
       ],
@@ -28881,7 +29124,7 @@
       "college": "Hofstra",
       "contract": {
         "amount": 750,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 2,
@@ -29032,6 +29275,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 750
+        },
+        {
+          "season": 2021,
           "amount": 750
         }
       ],
@@ -44041,7 +44288,7 @@
       },
       "injuries": [],
       "lastName": "Nelson",
-      "ptModifier": 1,
+      "ptModifier": 0.75,
       "relatives": [],
       "ratings": [
         {
@@ -46072,13 +46319,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 10,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        12
+        12,
+        10
       ],
-      "tid": 12,
-      "transactions": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 10,
+          "type": "trade",
+          "fromTid": 12
+        }
+      ],
       "watch": false,
       "weight": 248,
       "yearsFreeAgent": 0,
@@ -46729,7 +47029,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 1,
+      "rosterOrder": 0,
       "salaries": [
         {
           "season": 2020,
@@ -53348,7 +53648,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 0,
+      "rosterOrder": 1,
       "salaries": [
         {
           "season": 2020,
@@ -53643,13 +53943,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 29,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        7
+        7,
+        29
       ],
-      "tid": 7,
-      "transactions": [],
+      "tid": 29,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 29,
+          "type": "trade",
+          "fromTid": 7
+        }
+      ],
       "watch": false,
       "weight": 206,
       "yearsFreeAgent": 0,
@@ -56015,13 +56368,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 16,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        15
+        15,
+        16
       ],
-      "tid": 15,
-      "transactions": [],
+      "tid": 16,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 16,
+          "type": "trade",
+          "fromTid": 15
+        }
+      ],
       "watch": false,
       "weight": 196,
       "yearsFreeAgent": 0,
@@ -56243,13 +56649,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 12,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        10
+        10,
+        12
       ],
-      "tid": 10,
-      "transactions": [],
+      "tid": 12,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 12,
+          "type": "trade",
+          "fromTid": 10
+        }
+      ],
       "watch": false,
       "weight": 224,
       "yearsFreeAgent": 0,
@@ -56929,7 +57388,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 2,
+      "rosterOrder": 3,
       "salaries": [
         {
           "season": 2020,
@@ -59118,13 +59577,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 7,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        29
+        29,
+        7
       ],
-      "tid": 29,
-      "transactions": [],
+      "tid": 7,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 7,
+          "type": "trade",
+          "fromTid": 29
+        }
+      ],
       "watch": false,
       "weight": 226,
       "yearsFreeAgent": 0,
@@ -60208,7 +60720,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 5,
+      "rosterOrder": 2,
       "salaries": [
         {
           "season": 2020,
@@ -60445,7 +60957,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 7,
+      "rosterOrder": 9,
       "salaries": [
         {
           "season": 2020,
@@ -64052,7 +64564,7 @@
       "college": "",
       "contract": {
         "amount": 5250,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -64203,6 +64715,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 5250
+        },
+        {
+          "season": 2021,
           "amount": 5250
         }
       ],
@@ -71673,13 +72189,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 27,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        12
+        12,
+        27
       ],
-      "tid": 12,
-      "transactions": [],
+      "tid": 27,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 27,
+          "type": "trade",
+          "fromTid": 12
+        }
+      ],
       "watch": false,
       "weight": 248,
       "yearsFreeAgent": 0,
@@ -72365,13 +72934,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 12,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        27
+        27,
+        12
       ],
-      "tid": 27,
-      "transactions": [],
+      "tid": 12,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 12,
+          "type": "trade",
+          "fromTid": 27
+        }
+      ],
       "watch": false,
       "weight": 232,
       "yearsFreeAgent": 0,
@@ -74474,7 +75096,7 @@
       "college": "Middle Tennessee",
       "contract": {
         "amount": 1500,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -74625,6 +75247,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 1500
+        },
+        {
+          "season": 2021,
           "amount": 1500
         }
       ],
@@ -75376,7 +76002,7 @@
       "college": "Rider",
       "contract": {
         "amount": 6750,
-        "exp": 2021
+        "exp": 2022
       },
       "draft": {
         "round": 1,
@@ -75531,6 +76157,10 @@
         },
         {
           "season": 2021,
+          "amount": 6750
+        },
+        {
+          "season": 2022,
           "amount": 6750
         }
       ],
@@ -75977,7 +76607,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 6,
+      "rosterOrder": 7,
       "salaries": [
         {
           "season": 2020,
@@ -79318,13 +79948,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 15,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        16
+        16,
+        15
       ],
-      "tid": 16,
-      "transactions": [],
+      "tid": 15,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 15,
+          "type": "trade",
+          "fromTid": 16
+        }
+      ],
       "watch": false,
       "weight": 181,
       "yearsFreeAgent": 0,
@@ -80268,7 +80951,7 @@
       "college": "North Carolina",
       "contract": {
         "amount": 1500,
-        "exp": 2020
+        "exp": 2021
       },
       "draft": {
         "round": 1,
@@ -80419,6 +81102,10 @@
       "salaries": [
         {
           "season": 2020,
+          "amount": 1500
+        },
+        {
+          "season": 2021,
           "amount": 1500
         }
       ],
@@ -85406,13 +86093,66 @@
           "ba": 0,
           "pf": 0,
           "pts": 0
+        },
+        {
+          "playoffs": false,
+          "season": 2020,
+          "tid": 10,
+          "yearsWithTeam": 1,
+          "per": 0,
+          "ewa": 0,
+          "astp": 0,
+          "blkp": 0,
+          "drbp": 0,
+          "orbp": 0,
+          "stlp": 0,
+          "trbp": 0,
+          "usgp": 0,
+          "drtg": 0,
+          "ortg": 0,
+          "dws": 0,
+          "ows": 0,
+          "gp": 0,
+          "gs": 0,
+          "min": 0,
+          "fg": 0,
+          "fga": 0,
+          "fgAtRim": 0,
+          "fgaAtRim": 0,
+          "fgLowPost": 0,
+          "fgaLowPost": 0,
+          "fgMidRange": 0,
+          "fgaMidRange": 0,
+          "tp": 0,
+          "tpa": 0,
+          "ft": 0,
+          "fta": 0,
+          "pm": 0,
+          "orb": 0,
+          "drb": 0,
+          "ast": 0,
+          "tov": 0,
+          "stl": 0,
+          "blk": 0,
+          "ba": 0,
+          "pf": 0,
+          "pts": 0
         }
       ],
       "statsTids": [
-        12
+        12,
+        10
       ],
-      "tid": 12,
-      "transactions": [],
+      "tid": 10,
+      "transactions": [
+        {
+          "season": 2020,
+          "phase": 0,
+          "tid": 10,
+          "type": "trade",
+          "fromTid": 12
+        }
+      ],
       "watch": false,
       "weight": 239,
       "yearsFreeAgent": 0,
@@ -88152,7 +88892,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 9,
+      "rosterOrder": 8,
       "salaries": [
         {
           "season": 2020,
@@ -93333,7 +94073,7 @@
         }
       ],
       "retiredYear": null,
-      "rosterOrder": 8,
+      "rosterOrder": 6,
       "salaries": [
         {
           "season": 2020,
