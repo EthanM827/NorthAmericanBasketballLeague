@@ -24,8 +24,15 @@
     var team = bbgm.g.teamInfoCache.findIndex(t => t.abbrev === teamAbbrev);
     var player = await bbgm.idb.cache.players.get(playerID);
     
-    if (player.tid == bbgm.PLAYER.FREE_AGENT) {
+    if (player === undefined) {
+      console.log("player is undefined.");
+    } else if (team <= 0) {
+      console.log("teamID not found. did you make a typo?");
+    } else if (player.tid == bbgm.PLAYER.FREE_AGENT) {
       bbgm.player.sign(player, team, {amount: contractAmount, exp: contractExp}, bbgm.g.get("phase"));
       await bbgm.idb.cache.players.put(player);
+      console.log(player.firstName + " " + player.lastName + " signed successfully to " + bbgm.g.teamInfoCache[team].region + " for $" + salary + "M thru " + contractExp + ".");
+    } else {
+      console.log("player is not a free agent.");
     }
 })()
