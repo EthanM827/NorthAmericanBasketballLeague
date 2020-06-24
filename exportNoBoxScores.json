@@ -6871,7 +6871,7 @@
     },
     {
       "key": "budget",
-      "value": true
+      "value": false
     },
     {
       "key": "challengeNoDraftPicks",
@@ -7196,7 +7196,7 @@
     },
     {
       "key": "userTid",
-      "value": 2
+      "value": 24
     },
     {
       "key": "userTids",
